@@ -3,7 +3,7 @@
 
 
 #ADDRESS CONTRATO= 0xc6C40378e74b706F9aE83E8a5909D2Ce08dfA8b2
-#etherscan = https://sepolia.etherscan.io/tx/0x71ef84a6623542a843dba94c3d946cd8b4431c37a5ccca174ee1118378522d89
+#etherscan = https://sepolia.etherscan.io/tx/0x14ae9e5911eea551aa1ca422e69c9537fd2a7fae863fa6ecf40d57f20f42ba74
 
 # 4- Lista de Tareas con Prioridad 
 #Requerimientos: 
